@@ -1,0 +1,2 @@
+proxy:
+  type: "http" # http/socks4/socks5
